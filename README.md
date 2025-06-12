@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🚀 I recently published SVOC (student research activity) project "Mobile Robot Control" about SLAM algorithm evaluation in ROS2 simulation. <!-- Check it out [here]() -->
 - 💻 I’m currently learning C++
 
-### You can reach me here
+### 📫 You can reach me here
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/kralf/))
 
