@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 
 ### 📫 You can reach me here
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/kralf/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kralf/)
 
