@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋, my name is Filip
 
-My name is Filip, and I'm student at FEI STU in my second year currently pursuing bachelor's degree in Robotics and Cybernetics. I'm interested in mobile robotics, drones and AI.
+I'm a student at FEI STU in my second year currently pursuing bachelor's degree in Robotics and Cybernetics. I'm interested in mobile robotics, drones and AI.
 <!--**Fleppe/Fleppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
@@ -8,4 +8,6 @@ Here are some ideas to get you started:
 - 🚀 I recently published SVOC (student research activity) project "Mobile Robot Control" about SLAM algorithm evaluation in ROS2 simulation. <!-- Check it out [here]() -->
 - 💻 I’m currently learning C++
 
+### You can reach me here
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/kralf/))
 
